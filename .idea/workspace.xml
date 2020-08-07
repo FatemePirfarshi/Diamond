@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e649ee8-9612-43c5-b3d1-dbd00f859b36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fd7mruxLUb0cmnM542AAszJpTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RunManager" selected="Application.EmptyDiamond">
+    <configuration name="EmptyDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmptyDiamond" />
+      <module name="HW7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmptyDiamond2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmptyDiamond2" />
+      <module name="HW7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmptyDiamond" />
+        <item itemvalue="Application.EmptyDiamond2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e649ee8-9612-43c5-b3d1-dbd00f859b36" name="Default Changelist" comment="" />
+      <created>1596536277957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596536277957</updated>
+      <workItem from="1596536284906" duration="11909000" />
+      <workItem from="1596620376673" duration="603000" />
+      <workItem from="1596627234314" duration="7134000" />
+      <workItem from="1596649092585" duration="5823000" />
+      <workItem from="1596777678158" duration="5219000" />
+      <workItem from="1596791548214" duration="2520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="247" key="GridCell.Tab.0.bottom" timestamp="1596795458650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596795458650" />
+    <state width="1323" height="247" key="GridCell.Tab.0.center" timestamp="1596795458547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596795458547" />
+    <state width="1323" height="247" key="GridCell.Tab.0.left" timestamp="1596795458460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596795458460" />
+    <state width="1323" height="247" key="GridCell.Tab.0.right" timestamp="1596795458610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596795458610" />
+    <state width="1323" height="247" key="GridCell.Tab.1.bottom" timestamp="1596795458686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596795458686" />
+    <state width="1323" height="247" key="GridCell.Tab.1.center" timestamp="1596795458665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596795458665" />
+    <state width="1323" height="247" key="GridCell.Tab.1.left" timestamp="1596795458665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596795458665" />
+    <state width="1323" height="247" key="GridCell.Tab.1.right" timestamp="1596795458665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596795458665" />
+    <state x="157" y="301" key="ReplaceDuplicatesPrompt" timestamp="1596636913928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="157" y="301" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1596636913928" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596791550057">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596791550057" />
+    <state x="413" y="119" width="540" height="497" key="extract.method.dialog" timestamp="1596636911934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" width="540" height="497" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596636911934" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1596637563221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596637563221" />
+  </component>
+</project>
